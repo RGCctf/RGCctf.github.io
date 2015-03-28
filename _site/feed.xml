@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description>Russian Gaming Club - Capture The Flag</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Practice Sites for CTF</title>
+				<description>&lt;h1 id=&quot;practice-ctf-list--permanant-ctf-list&quot;&gt;Practice CTF List / Permanant CTF List&lt;/h1&gt;
+
+&lt;p&gt;Here’s a list of some CTF practice sites and tools or CTFs that are long-running. Thanks, RSnake for starting the original that this is based on. If you have any corrections or suggestions, feel free to email ctf at the domain psifertex with a dot com tld.&lt;/p&gt;
+
+&lt;h2 id=&quot;live-online-games&quot;&gt;Live Online Games&lt;/h2&gt;
+
+&lt;h4 id=&quot;recommended&quot;&gt;Recommended&lt;/h4&gt;
+
+&lt;p&gt;Whether they’re being updated, contain high quality challenges, or just have a lot of depth, these are probably where you want to spend the most time.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hax.tor.hu/&quot;&gt;http://hax.tor.hu/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pwn0.com/&quot;&gt;https://pwn0.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.smashthestack.org/&quot;&gt;http://www.smashthestack.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ringzer0team.com/&quot;&gt;http://ringzer0team.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hellboundhackers.org/&quot;&gt;http://www.hellboundhackers.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.overthewire.org/wargames/&quot;&gt;http://www.overthewire.org/wargames/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://counterhack.net/Counter_Hack/Challenges.html&quot;&gt;http://counterhack.net/Counter_Hack/Challenges.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hackthissite.org/&quot;&gt;http://www.hackthissite.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://exploit-exercises.com/&quot;&gt;http://exploit-exercises.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://vulnhub.com/&quot;&gt;http://vulnhub.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;others&quot;&gt;Others&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://damo.clanteam.com/&quot;&gt;http://damo.clanteam.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://p6drad-teel.net/~windo/wargame/&quot;&gt;http://p6drad-teel.net/~windo/wargame/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://roothack.org/&quot;&gt;http://roothack.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bright-shadows.net/&quot;&gt;http://bright-shadows.net/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mod-x.co.uk/main.php&quot;&gt;http://www.mod-x.co.uk/main.php&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://scanme.nmap.org/&quot;&gt;http://scanme.nmap.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hackertest.net/&quot;&gt;http://www.hackertest.net/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://net-force.nl/&quot;&gt;http://net-force.nl/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://securityoverride.org/&quot;&gt;http://securityoverride.org/&lt;/a&gt; Some good concepts, but “canned” vulnerabilities (string matching on input) will frustrate knowledgable hackers and teach newbies the wrong lessons&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;meta&quot;&gt;Meta&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wechall.net/sites.php&quot;&gt;http://www.wechall.net/sites.php&lt;/a&gt; (excellent list of challenge sites)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ctf.forgottensec.com/wiki/index.php?title=Main_Page&quot;&gt;http://ctf.forgottensec.com/wiki/&lt;/a&gt; (good CTF wiki, though focused on CCDC)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://repo.shell-storm.org/CTF/&quot;&gt;http://repo.shell-storm.org/CTF/&lt;/a&gt; (great archive of recent CTFs)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;webapp-specific&quot;&gt;Webapp Specific&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://demo.testfire.net/&quot;&gt;http://demo.testfire.net/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wocares.com/xsstester.php&quot;&gt;http://wocares.com/xsstester.php&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://crackme.cenzic.com/&quot;&gt;http://crackme.cenzic.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://test.acunetix.com/&quot;&gt;http://test.acunetix.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://zero.webappsecurity.com/&quot;&gt;http://zero.webappsecurity.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ha.ckers.org/challenge/&quot;&gt;http://ha.ckers.org/challenge/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ha.ckers.org/challenge2/&quot;&gt;http://ha.ckers.org/challenge2/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;forensics-specific&quot;&gt;Forensics Specific&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://computer-forensics.sans.org/community/challenges&quot;&gt;http://computer-forensics.sans.org/community/challenges&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dc3.mil/challenge/&quot;&gt;http://www.dc3.mil/challenge/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://forensicscontest.com/&quot;&gt;http://forensicscontest.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;recruiting&quot;&gt;Recruiting&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rtncyberjobs.com/&quot;&gt;http://rtncyberjobs.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://0x41414141.com/&quot;&gt;http://0x41414141.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;paid-training&quot;&gt;Paid Training&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://heorot.net/&quot;&gt;http://heorot.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;downloadable-offline-games&quot;&gt;Downloadable Offline Games&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.badstore.net/&quot;&gt;http://www.badstore.net/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.owasp.org/index.php/Category:OWASP_WebGoat_Project&quot;&gt;http://www.owasp.org/index.php/Category:OWASP_WebGoat_Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.owasp.org/index.php/Owasp_SiteGenerator&quot;&gt;http://www.owasp.org/index.php/Owasp_SiteGenerator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ethicalhack3r.co.uk/damn-vulnerable-web-app/&quot;&gt;Damn Vulnerable Web App&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://suif.stanford.edu/~livshits/securibench/&quot;&gt;Stanford SecureBench&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://suif.stanford.edu/~livshits/work/securibench-micro/&quot;&gt;Stanford SecureBench Micro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.damnvulnerablelinux.org/&quot;&gt;Damn Vulnerable Linux&lt;/a&gt; (not currently live? local&lt;a href=&quot;/mirror/damnvulnerablelinux.com/&quot;&gt;mirror&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10&quot;&gt;http://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;inactive-or-gone&quot;&gt;Inactive or Gone&lt;/h3&gt;
+
+&lt;p&gt;Just around for historical sake, or on the off-chance they come back.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rootcontest.com/&quot;&gt;http://rootcontest.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://intruded.net/&quot;&gt;http://intruded.net/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://how2hack.net&quot;&gt;https://how2hack.net&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mavensecurity.com/WebMaven.php&quot;&gt;WebMaven (Buggy Bank)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.foundstone.com/us/resources/proddesc/hacmetravel.htm&quot;&gt;http://www.foundstone.com/us/resources/proddesc/hacmetravel.htm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.foundstone.com/us/resources/proddesc/hacmebooks.htm&quot;&gt;http://www.foundstone.com/us/resources/proddesc/hacmebooks.htm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.foundstone.com/us/resources/proddesc/hacmecasino.htm&quot;&gt;http://www.foundstone.com/us/resources/proddesc/hacmecasino.htm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.foundstone.com/us/resources/proddesc/hacmeshipping.htm&quot;&gt;http://www.foundstone.com/us/resources/proddesc/hacmeshipping.htm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hackme.ntobjectives.com/&quot;&gt;http://hackme.ntobjectives.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://testphp.acunetix.com/.asp&quot;&gt;http://testphp.acunetix.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://testasp.acunetix.com/Default.asp&quot;&gt;http://testasp.acunetix.com/Default.asp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://prequals.nuitduhack.com&quot;&gt;http://prequals.nuitduhack.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gat3way.eu/index.php&quot;&gt;http://www.gat3way.eu/index.php&lt;/a&gt; (Russian)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source:   &lt;a href=&quot;http://captf.com/practice-ctf/&quot;&gt;http://captf.com/practice-ctf&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Sat, 28 Mar 2015 00:00:00 +0100</pubDate>
+				<link>/ctf/practice/tips/2015/03/28/Practice-Sites-CTF.html</link>
+				<guid isPermaLink="true">/ctf/practice/tips/2015/03/28/Practice-Sites-CTF.html</guid>
+			</item>
+		
+	</channel>
+</rss>
