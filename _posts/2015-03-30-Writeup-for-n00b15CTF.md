@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Writeup for n00b15CTF
-categories: [CTF, practice,tips]
-tags: [CTF,tips, writeup]
+categories: [CTF, Writeup]
+tags: [CTF,Tips, Writeup]
 fullview: true
 ---
 
